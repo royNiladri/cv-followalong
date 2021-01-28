@@ -1,4 +1,5 @@
-# CS-6476 Follow along Python Notebooks
+# CS-6476 Python Notebooks [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/royNiladri/cv-followalong/HEAD)
+This repository is intended for follow along with GA Tech OMSCS CS-6476 Computer Vision lectures. The lessons use Matlab or Octave, but I am using Python with OpenCV. To interact with the notebooks, click on the Binder badge.
 
 ## Getting started (Windows)
 - Install Python 3.7 (OpenCV is currently not compatible with Python 3.8)
