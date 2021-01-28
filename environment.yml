@@ -1,0 +1,11 @@
+name: ComputerVision
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.7
+  - numpy
+  - opencv
+  - pandas
+  - notebook==6.2.0
+  - matplotlib
